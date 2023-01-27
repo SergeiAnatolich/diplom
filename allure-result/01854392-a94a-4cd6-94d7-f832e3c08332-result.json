@@ -1,0 +1,53 @@
+{
+    "name": "testOpenAllClaims",
+    "start": 1673776701090,
+    "stop": 1673776712436,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "01854392-a94a-4cd6-94d7-f832e3c08332",
+    "historyId": "326cbaf73bf952a97a53e0e3cfd83f0",
+    "fullName": "ru.iteco.fmhandroid.ui.MainPageTest.testOpenAllClaims",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.MainPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOpenAllClaims"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.MainPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

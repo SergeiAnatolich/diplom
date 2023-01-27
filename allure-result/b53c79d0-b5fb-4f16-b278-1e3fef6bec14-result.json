@@ -1,0 +1,53 @@
+{
+    "name": "testEnteringTextInTheTitleField",
+    "start": 1673776497777,
+    "stop": 1673776514548,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "b53c79d0-b5fb-4f16-b278-1e3fef6bec14",
+    "historyId": "21d6a547e02d093912dc3ef4169d635e",
+    "fullName": "ru.iteco.fmhandroid.ui.CreatingClaimsTest.testEnteringTextInTheTitleField",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreatingClaimsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEnteringTextInTheTitleField"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreatingClaimsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

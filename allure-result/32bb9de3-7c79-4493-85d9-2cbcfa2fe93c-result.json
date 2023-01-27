@@ -1,0 +1,53 @@
+{
+    "name": "testSuccessLoginAndFailPassword",
+    "start": 1673776244696,
+    "stop": 1673776251371,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "32bb9de3-7c79-4493-85d9-2cbcfa2fe93c",
+    "historyId": "879baa47c1d4b91dfc8062f17577db7",
+    "fullName": "ru.iteco.fmhandroid.ui.AuthorizationTest.testSuccessLoginAndFailPassword",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.AuthorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSuccessLoginAndFailPassword"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.AuthorizationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

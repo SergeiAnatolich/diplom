@@ -1,0 +1,53 @@
+{
+    "name": "testCheckingLinks",
+    "start": 1673776164841,
+    "stop": 1673776179900,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "89de0fa9-684a-40f5-94aa-250b783aed2f",
+    "historyId": "3221fe6b097809562c887d653b6f23bf",
+    "fullName": "ru.iteco.fmhandroid.ui.AboutPageTest.testCheckingLinks",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.AboutPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckingLinks"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.AboutPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

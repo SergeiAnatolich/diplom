@@ -1,0 +1,53 @@
+{
+    "name": "testAddComment",
+    "start": 1673776384104,
+    "stop": 1673776412757,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "d71f9576-54a1-4605-8d27-eef8be6ea372",
+    "historyId": "8092eb04021225f79dcbe452844492c2",
+    "fullName": "ru.iteco.fmhandroid.ui.ClaimManagementTest.testAddComment",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.ClaimManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddComment"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.ClaimManagementTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

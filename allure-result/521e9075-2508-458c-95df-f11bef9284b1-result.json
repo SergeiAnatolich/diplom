@@ -1,0 +1,53 @@
+{
+    "name": "testCollapsingAndUnfoldingTheClaimsSection",
+    "start": 1673776650714,
+    "stop": 1673776661648,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "521e9075-2508-458c-95df-f11bef9284b1",
+    "historyId": "5e21e152228f4c16fe39b7cc57620d65",
+    "fullName": "ru.iteco.fmhandroid.ui.MainPageTest.testCollapsingAndUnfoldingTheClaimsSection",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.MainPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollapsingAndUnfoldingTheClaimsSection"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.MainPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="ru.iteco.fmhandroid.ui.ChangePageTest" tests="1" failures="1" errors="0" skipped="0" time="2.0" timestamp="2022-12-22T16:54:56" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_5.0_API_29(AVD) - 10" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="testSuccessAuthorisation" classname="ru.iteco.fmhandroid.ui.ChangePageTest" time="0.025">
+    <failure>kotlin.UninitializedPropertyAccessException: lateinit property device has not been initialized
+at ru.iteco.fmhandroid.ui.ChangePageTest.waitForPackage(ChangePageTest.kt:42)
+at ru.iteco.fmhandroid.ui.ChangePageTest.testSuccessAuthorisation(ChangePageTest.kt:47)
+</failure>
+  </testcase>
+</testsuite>

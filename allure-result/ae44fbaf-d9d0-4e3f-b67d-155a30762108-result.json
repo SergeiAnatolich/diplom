@@ -1,0 +1,53 @@
+{
+    "name": "testCreateClaimsAllFieldsEmpty",
+    "start": 1673776553136,
+    "stop": 1673776568267,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "ae44fbaf-d9d0-4e3f-b67d-155a30762108",
+    "historyId": "46c4752ce973a6ba43681cdd8482441b",
+    "fullName": "ru.iteco.fmhandroid.ui.CreatingClaimsTest.testCreateClaimsAllFieldsEmpty",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CreatingClaimsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateClaimsAllFieldsEmpty"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CreatingClaimsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

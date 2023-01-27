@@ -1,0 +1,53 @@
+{
+    "name": "testOpenThematicQuotesPage",
+    "start": 1673776779419,
+    "stop": 1673776794860,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "66620249-4473-4ccc-9d19-66418c5d4f0c",
+    "historyId": "94c94f9eb402d6216d3e64961e7dd5d9",
+    "fullName": "ru.iteco.fmhandroid.ui.ThematicQuotesTest.testOpenThematicQuotesPage",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.ThematicQuotesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOpenThematicQuotesPage"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.ThematicQuotesTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

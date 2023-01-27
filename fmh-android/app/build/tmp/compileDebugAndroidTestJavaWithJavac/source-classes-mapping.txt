@@ -1,0 +1,2 @@
+ru/iteco/fmhandroid/test/BuildConfig.java
+ ru.iteco.fmhandroid.test.BuildConfig

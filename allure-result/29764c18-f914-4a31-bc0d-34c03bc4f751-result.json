@@ -1,0 +1,53 @@
+{
+    "name": "testSelectDate",
+    "start": 1673776258213,
+    "stop": 1673776285006,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "29764c18-f914-4a31-bc0d-34c03bc4f751",
+    "historyId": "e308c0135a471f49c3d59375e81a089e",
+    "fullName": "ru.iteco.fmhandroid.ui.CalendarTest.testSelectDate",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.CalendarTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSelectDate"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.CalendarTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

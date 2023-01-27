@@ -1,0 +1,53 @@
+{
+    "name": "testChangeStatus",
+    "start": 1673776354160,
+    "stop": 1673776384096,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "b2b30aa4-6d7e-4246-856e-eff840c43cbc",
+    "historyId": "d9ef98e94e42bfcd3ef71bb6515c7980",
+    "fullName": "ru.iteco.fmhandroid.ui.ClaimManagementTest.testChangeStatus",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.ClaimManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testChangeStatus"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.ClaimManagementTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

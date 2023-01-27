@@ -1,0 +1,53 @@
+{
+    "name": "testCollapsingAndUnfoldingTheNews",
+    "start": 1673776748650,
+    "stop": 1673776762488,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "195f383c-7b96-41d9-b168-e9e94eb79d90",
+    "historyId": "47a1b75973526d0a066867036e9599e5",
+    "fullName": "ru.iteco.fmhandroid.ui.NewsPageTest.testCollapsingAndUnfoldingTheNews",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.NewsPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollapsingAndUnfoldingTheNews"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.NewsPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(5252)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
